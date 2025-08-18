@@ -7,13 +7,13 @@
 - 🤖 &nbsp; Full-stack developer passionate about creating real-world solutions with modern tech stacks.  
 - 🌱 &nbsp; Exploring backend systems, cloud technologies, AI integrations, and clean, intuitive UI design.  
 - ⚡ &nbsp; Curious, proactive, and always eager to learn, innovate, and contribute to meaningful projects.
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
+- 💻 &nbsp; Programming Languages  
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- 🌐 &nbsp;
+
+- 🌐 &nbsp; Frontend & Backend  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -21,15 +21,18 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
+
+- 🛢 &nbsp; Databases  
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MongoDB Compass](https://img.shields.io/badge/-MongoDB_Compass-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
+
+- ⚙️ &nbsp; Tools & Version Control  
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
+
+- 🔧 &nbsp; IDEs & Editors  
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
