@@ -17,10 +17,13 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css&logoColor=06B6D4)
+  <br>
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Nodemailer](https://img.shields.io/badge/-Nodemailer-333333?style=flat&logo=nodemailer)
+  ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=jsonwebtokens)
 
 - 🛢 &nbsp; Databases  
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -31,10 +34,17 @@
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 - 🔧 &nbsp; IDEs & Editors  
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat&logo=cursor&logoColor=white)
+
+- 🔧 &nbsp; Deployement
+  ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+
 
 <br/>
 
