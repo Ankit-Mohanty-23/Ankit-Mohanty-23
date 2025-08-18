@@ -41,7 +41,7 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat&logo=cursor&logoColor=white)
 
-- 🔧 &nbsp; Deployement
+- ☁️ &nbsp; Deployement
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
   ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 
