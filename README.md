@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Pursuing B.Tech in Computer Science and Engineering at SOA, ITER Bhubaneswar.
-- 🤖 &nbsp; Passionate about full-stack development and building real-world solutions.
-- 🌱 &nbsp; Currently exploring backend systems, cloud technologies, and clean UI design.
-- ⚡ &nbsp; Always eager to learn and contribute to exciting projects.
+- 🎓 &nbsp; B.Tech CSE student at SOA, ITER Bhubaneswar, focused on building impactful tech projects.  
+- 🤖 &nbsp; Full-stack developer passionate about creating real-world solutions with modern tech stacks.  
+- 🌱 &nbsp; Exploring backend systems, cloud technologies, AI integrations, and clean, intuitive UI design.  
+- ⚡ &nbsp; Curious, proactive, and always eager to learn, innovate, and contribute to meaningful projects.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
