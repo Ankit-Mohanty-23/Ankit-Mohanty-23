@@ -1,5 +1,15 @@
 
-<h2> Hey there! I'm Ankit Mohanty.</h2>
+<div align="center">
+
+  <img src="coder.gif" width="100%" />
+
+  <h2 style="color: #a259ff;" > Hey there! I'm Ankit Mohanty.</h2>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A259FF&center=true&vCenter=true&width=500&lines=Front-End+Developer+%26+Designer;Aspiring+Software+Engineer;Open+Source+Contributor;Always+Learning+New+Tech!" alt="Typing SVG" />
+
+</div>
+
+---
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
