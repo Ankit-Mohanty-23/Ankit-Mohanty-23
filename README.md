@@ -3,9 +3,10 @@
 
   <img src="coder.gif" width="100%" />
 
-  <h2 style="color: #a259ff;" > Hey there! I'm Ankit Mohanty.</h2>
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Ankit Mohanty </h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A259FF&center=true&vCenter=true&width=500&lines=Front-End+Developer+%26+Designer;Aspiring+Software+Engineer;Open+Source+Contributor;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=26&duration=3000&pause=500&color=FF8C00&center=true&width=720&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG">
+
 
 </div>
 
@@ -17,48 +18,39 @@
 - 🤖 &nbsp; Full-stack developer passionate about creating real-world solutions with modern tech stacks.  
 - 🌱 &nbsp; Exploring backend systems, cloud technologies, AI integrations, and clean, intuitive UI design.  
 - ⚡ &nbsp; Curious, proactive, and always eager to learn, innovate, and contribute to meaningful projects.
-<h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp; Programming Languages  
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+### 🛠️ Tech Stack
 
-- 🌐 &nbsp; Frontend & Backend  
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css&logoColor=06B6D4)
+<div align="center">
+
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,bootstrap,nodejs,express&theme=light" />
   <br>
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![Nodemailer](https://img.shields.io/badge/-Nodemailer-333333?style=flat&logo=nodemailer)
-  ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=jsonwebtokens)
 
-- 🛢 &nbsp; Databases  
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![MongoDB Compass](https://img.shields.io/badge/-MongoDB_Compass-333333?style=flat&logo=mongodb)
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,bash,postman,vscode,eclipse,vercel,netlify&theme=light" />
 
-- ⚙️ &nbsp; Tools & Version Control  
-  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+</div>
 
-- 🔧 &nbsp; IDEs & Editors  
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat&logo=cursor&logoColor=white)
+### I’ve worked on:
 
-- ☁️ &nbsp; Deployement <br>
-  ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
-  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+- 💻 Full Stack Development with **React + Node.js + MongoDB**
+- 🔐 Secure Authentication using **JWT, Google OAuth**
+- 🎨 Responsive UIs with **React + TailwindCSS**
+- ⚡ REST APIs and CRUD backends in **Express.js**
+- 🗄️ Database management with **MongoDB + MySQL**
+- 🚀 Deployment on **Vercel, Netlify, Render**
+
+### 🌟 Core Interests  
+
+- ⚡ Backend Development with **Node.js + Express**  
+- 🔐 Building Secure & Scalable **REST APIs**  
+- 🛢️ Efficient Database Design using **MongoDB & MySQL**  
+- 🤖 Integrating **Hugging Face APIs** to create AI-powered projects  
+- 🚀 Deploying and Optimizing apps on **Vercel, Netlify, Render**  
 
 
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with Me: </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ankitmohanty-23dev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ankit%20Mohanty-blue?style=flat-square&logo=linkedin"></a>
