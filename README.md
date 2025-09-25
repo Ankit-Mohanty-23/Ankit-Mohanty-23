@@ -5,7 +5,7 @@
 
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Ankit Mohanty </h1>
 
-  <<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=26&duration=3000&pause=500&color=FF8C00&center=true&width=720&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=26&duration=3000&pause=500&color=FF8C00&center=true&width=720&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG">
 
 
 </div>
